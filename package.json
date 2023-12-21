@@ -3,6 +3,9 @@
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
   "repository": "git@github.com:KsmKayk/rocketseat-01-fundamentos-node.git",
   "author": "Kayk Mascarenhas <kaykdsg@gmail.com>",
   "license": "MIT"
