@@ -54,4 +54,4 @@ Primeira trilha de **NodeJs**. Abordando os seguintes temas:
 </details>
 
 ---
-<span>Curso pro Rocketseat 💜</span>
+<span>Curso por Rocketseat 💜</span>
