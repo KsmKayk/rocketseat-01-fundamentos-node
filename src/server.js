@@ -7,8 +7,8 @@ const server = http.createServer((req, res) => {
 
   if (method === 'GET' && url === '/users') {
     return res
-    .writeHead(200)
     .setHeader('Content-Type', 'application/json')
+    .writeHead(200)
     .end(JSON.stringify(users))
   }
 
